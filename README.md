@@ -11,5 +11,4 @@ Options:
 Example:
 
 $password_generator -l 24 -s '!@#$%^&*()_+-=,.<>/?'
-
-# outputs_random_password
+$outputs_random_password
